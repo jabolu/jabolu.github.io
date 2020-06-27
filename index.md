@@ -14,3 +14,5 @@ Aber auch nach allen Misserfolgen läßt er sich nicht unterkriegen.
 * Zäh
 * Lieblingsspeise Road Runner
 * verwendet besonders gerne ACME Tools
+
+> BÄNG
