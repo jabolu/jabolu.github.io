@@ -5,6 +5,8 @@ Er versucht immer wieder den Road Runner zu erliegen.
 Leider sind seine Pläne meist zu ambitioniert.
 Aber auch nach allen Misserfolgen läßt er sich nicht unterkriegen.
 
+## Eigenschaften
+
 * Canis latrans
 * Braun beiges Fell
 * Lebensraum NordAmerikas Steppen Bereich 
