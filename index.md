@@ -16,3 +16,5 @@ Aber auch nach allen Misserfolgen läßt er sich nicht unterkriegen.
 * verwendet besonders gerne ACME Tools
 
 > BÄNG
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2009-Coyote-Yosemite.jpg/300px-2009-Coyote-Yosemite.jpg" />
